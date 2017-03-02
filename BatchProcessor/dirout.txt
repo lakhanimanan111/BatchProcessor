@@ -1,0 +1,22 @@
+ Volume in drive C is OS
+ Volume Serial Number is 64BF-111D
+
+ Directory of C:\Users\manan\workspace\BatchProcessor
+
+10/06/2016  01:12 PM    <DIR>          .
+10/06/2016  01:12 PM    <DIR>          ..
+10/04/2016  05:14 PM               381 .classpath
+09/24/2016  05:41 PM               390 .project
+09/24/2016  05:42 PM    <DIR>          .settings
+09/26/2016  09:31 PM             8,916 addLines.jar
+09/26/2016  09:31 PM            10,273 avgFile.jar
+10/05/2016  02:09 PM    <DIR>          bin
+10/06/2016  01:12 PM                 0 dirout.txt
+10/06/2016  01:10 PM            22,366 myBatchProcessor.jar
+09/27/2016  06:32 PM               706 numberdata.txt
+09/26/2016  09:31 PM             1,142 randomwords.txt
+10/06/2016  01:27 AM                94 README.txt
+09/24/2016  05:42 PM    <DIR>          src
+10/06/2016  01:16 AM    <DIR>          work
+               9 File(s)         44,268 bytes
+               6 Dir(s)  919,847,215,104 bytes free
